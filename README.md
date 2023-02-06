@@ -1,7 +1,7 @@
 
 # 🌌 Eclipse - Discord Image Logger
 
-<h1 align="center">ECLIPSE Reborn - The ULTIMATE Password/Discord/Cookie Logger. </h1>
+<p align="center">ECLIPSE Reborn - The ULTIMATE Password/Discord/Cookie Logger. </p>
 
 ## ⚔️ 〢 Features 
 - Grab all browsers data
